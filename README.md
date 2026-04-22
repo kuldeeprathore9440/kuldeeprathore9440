@@ -90,7 +90,7 @@ Data Modeling • Reporting • Trend Analysis
 ---
 
 ## 🍽 Zomato Sales & Customer Behavior Case Study
-🔗 https://zomato.com
+🔗 https://github.com/kuldeeprathore9440/Zomato-Sales-Customer-Analytics-Dashboard
 
 • 197K+ food orders analyzed  
 • Customer behavior insights  
